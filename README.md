@@ -19,6 +19,10 @@ Please star⭐ this repo if you like what you see.
 ## 📸 ScreenShots
 <img src="https://raw.githubusercontent.com/demola234/Grade-Calculator/master/screenshots/ss.gif" width="250">
 
+| Light| Dark|
+|------|-------|
+|<img src="https://raw.githubusercontent.com/demola234/Grade-Calculator/master/screenshots/2.jpg" width="250">|<img src="https://raw.githubusercontent.com/demola234/Grade-Calculator/master/screenshots/2.jpg" width="250">|
+
 
 
 ## 🔌 Plugins
