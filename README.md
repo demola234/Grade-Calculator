@@ -4,6 +4,12 @@ A simple Flutter Calculator That Helps to Calculate Student GPA Or CGPA.
 This is the ease the stress of students calculating their results.
 
 Please star⭐ this repo if you like what you see.
+<br>
+<br>
+
+## ⬆️ Download
+<a href="https://download1479.mediafire.com/is0ak3je6pmg/blescqu120quby4/Grade+Calculator.apk"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+
 
 ## 💻 Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -32,5 +38,5 @@ Please star⭐ this repo if you like what you see.
 |[**Shimmer Gradiant Effect**](https://pub.dev/packages/shimmer)| Gradiant Effect For AppBar|
 
 
-## 🤓 Author(s)
+## 🤓 Author
 **KolaWole Ademola** [![Twitter Follow](https://img.shields.io/twitter/follow/AdemolaDi.svg?style=social)](https://twitter.com/AdemolaDi)
