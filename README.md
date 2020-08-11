@@ -17,7 +17,7 @@ Please star⭐ this repo if you like what you see.
 - [x] Quick Dissmisable Widgets.
 
 ## 📸 ScreenShots
-<img src="https://raw.githubusercontent.com/demola234/Grade-Calculator/master/screenshots/ss.gif"/>
+<img src="https://raw.githubusercontent.com/demola234/Grade-Calculator/master/screenshots/ss.gif" width="250">
 
 
 
