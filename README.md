@@ -1,16 +1,29 @@
-# gpa_app
+# GradeCalculator [![Twitter Follow](https://img.shields.io/twitter/follow/AdemolaDi.svg?style=social)](https://twitter.com/AdemolaDi)
 
-A new Flutter project.
+A simple Flutter Calculator That Helps to Calculate Student GPA Or CGPA.
+This is the ease the stress of students calculating their results.
 
-## Getting Started
+Please star⭐ this repo if you like what you see.
 
-This project is a starting point for a Flutter application.
+## 💻 Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- [x] Calculate Grades.
+- [x] Splash Screen.
+- [x] Dark Mode.
+- [x] Quick Dissmisable Widgets.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📸 ScreenShots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Font Awesome**](https://pub.dev/packages/font_awesome_flutter)| Fonts|
+|[**Shimmer Gradiant Effect**](https://pub.dev/packages/shimmer)| Gradiant Effect For AppBar|
+
+
+## 🤓 Author(s)
+**KolaWole Ademola** [![Twitter Follow](https://img.shields.io/twitter/follow/AdemolaDi.svg?style=social)](https://twitter.com/AdemolaDi)
