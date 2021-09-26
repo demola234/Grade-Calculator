@@ -8,7 +8,7 @@ Please star⭐ this repo if you like what you see.
 <br>
 
 ## ⬆️ Download
-<a href="https://download1479.mediafire.com/is0ak3je6pmg/blescqu120quby4/Grade+Calculator.apk"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+<a href="https://www.mediafire.com/file/blescqu120quby4/Grade_Calculator.apk/file"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
 
 ## 💻 Requirements
